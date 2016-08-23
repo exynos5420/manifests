@@ -1,9 +1,4 @@
 <manifest>
-  <!--
-  <project name="thompatry/android_device_samsung_v1awifi" path="device/samsung/v1awifi" remote="github" revision="cm13" />
-  <project name="thompatry/android_kernel_samsung_exynos5420" path="kernel/samsung/exynos5420" remote="github" />
-  <project name="thompatry/android_vendor_samsung_v1awifi" path="vendor/samsung/v1awifi" remote="github" revision="cm13" />
-  -->
   <project name="exynos5420/android_device_samsung_v1awifi" path="device/samsung/v1awifi" remote="github" />
   <project name="exynos5420/android_kernel_samsung_v1" path="kernel/samsung/exynos5420" remote="github" />
   <project name="exynos5420/proprietary_vendor_samsung" path="vendor/samsung/v1awifi" remote="github" />
