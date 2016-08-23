@@ -1,7 +1,7 @@
 <manifest>
   <project name="exynos5420/android_device_samsung_v1awifi" path="device/samsung/v1awifi" remote="github" />
   <project name="exynos5420/android_kernel_samsung_v1" path="kernel/samsung/exynos5420" remote="github" />
-  <project name="exynos5420/proprietary_vendor_samsung" path="vendor/samsung/v1awifi" remote="github" />
+  <project name="exynos5420/proprietary_vendor_samsung" path="vendor/samsung" remote="github" />
   <project name="exynos5420/android_hardware_samsung_slsi-cm_exynos5420" path="hardware/samsung_slsi-cm/exynos5420" remote="github" />
   <project name="CyanogenMod/android_external_stlport" path="external/stlport" remote="github" />
   <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" />
