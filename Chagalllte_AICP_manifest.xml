@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="exynos5420/android_device_samsung_chagalllte" path="device/samsung/chagalllte" remote="github" revision="AICP-mm-6.0" />
-  <project name="exynos5420/android_kernel_samsung_tabs" path="kernel/samsung/tabs" remote="github" revision="deathly_cm-13.0" />
+  <project name="exynos5420/android_kernel_samsung_exynos5420" path="kernel/samsung/tabs" remote="github" revision="cm-13.0" />
   <project name="exynos5420/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-13.0" />
   <project name="exynos5420/android_hardware_samsung_slsi-cm_exynos5420" path="hardware/samsung_slsi-cm/exynos5420" remote="github" revision="cm-13.0" />
 
