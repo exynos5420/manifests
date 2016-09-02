@@ -6,7 +6,7 @@ There will be individual manifests for each device with there according rom.
 
 Naming Scheme examples for the manifests:
 ```
-Lt03wifi_BrokenOS_manifest.xml
+N1awifi_BrokenOS_manifest.xml
 Klimtlte_CM_manifest.xml
 V1awifi_CM_manifest.xml
 ```
