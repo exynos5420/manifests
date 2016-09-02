@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="BrokenROM/device_samsung_lt03wifi" path="device/samsung/lt03wifi" remote="github" revision="m6.0.1" />
-  <project name="Project-lt03wifi/kernel_lt03wifi_orbiter" path="kernel/samsung/lt03wifi" remote="github" revision="orbiter" />
+  <project name="BrokenROM/device_samsung_n1awifi" path="device/samsung/n1awifi" remote="github" revision="m6.0.1" />
+  <project name="exynos5420/android_kernel_samsung_exynos5420" path="kernel/samsung/exynos" remote="github" revision="cm-13.0" />
   <project name="exynos5420/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-13.0" />
   <project name="Project-lt03wifi/android_hardware_samsung" path="hardware/samsung" remote="github" revision="m6.0" />
   <project name="CyanogenMod/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="cm-13.0" />
