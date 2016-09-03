@@ -14,4 +14,5 @@
 
 	<!-- External -->
 	<project name="CyanogenMod/android_external_stlport" path="external/stlport" remote="github" revision="cm-13.0"/>
+    <project name="exynos5420/armv7-cortex_a15-linux-gnueabihf-linaro-5.2-2016.09.02" path="prebuilts/gcc/linux-x86/arm/arm-eabi-5.2" remote="github" revision="master" />
 </manifest>
