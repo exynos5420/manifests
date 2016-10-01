@@ -11,4 +11,10 @@ Klimtlte_CM_manifest.xml
 V1awifi_CM_manifest.xml
 ```
 
-If you would like to contribute to any of Exynos5420 devices please open a pull request or get in contact with one of us.
+To use these manifests, place these manifests as shown below:
+
+"/cm-13.0/.repo/local_manifests/roomservice.xml"
+
+and do a "repo sync"
+
+If you would like to contribute to any of Exynos5420 devices please submit a change to our gerrit http://review.exyns5420.com or get in contact with one of us.
