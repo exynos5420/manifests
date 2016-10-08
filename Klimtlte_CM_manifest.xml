@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="exynos5420/android_device_samsung_klimtlte" path="device/samsung/klimtlte" remote="github" />
-  <project name="exynos5420/android_kernel_samsung_tabs" path="kernel/samsung/tabs" remote="github" revision="deathly_cm-13.0" />
+  <project name="exynos5420/android_kernel_samsung_exynos5420" path="kernel/samsung/tabs" remote="github"/>
   <project name="exynos5420/proprietary_vendor_samsung" path="vendor/samsung" remote="github" />
   <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" />
   <project name="CyanogenMod/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" />
