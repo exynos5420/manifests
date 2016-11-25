@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  
   <project name="exynos5420/android_device_samsung_chagalllte" path="device/samsung/chagalllte" remote="github" revision="AICP_mm6.0" />
-  <project name="exynos5420/android_kernel_samsung_exynos5420" path="kernel/samsung/tabs" remote="github" revision="cm-13.0" />
+  <project name="exynos5420/android_device_samsung_exynos5420-common" path="device/samsung/exynos5420-common" remote="github" revision="cm-13.0" />
+  <project name="exynos5420/android_kernel_samsung_exynos5420" path="kernel/samsung/exynos5420" remote="github" revision="cm-13.0" />
   <project name="exynos5420/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-13.0" />
+  <project name="exynos5420/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-13.0" />
+  <project name="exynos5420/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="cm-13.0" />
   <project name="exynos5420/android_hardware_samsung_slsi-cm_exynos5420" path="hardware/samsung_slsi-cm/exynos5420" remote="github" revision="cm-13.0" />
-
-  <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-13.0" />
+  <project name="exynos5420/android_device_samsung_klimtlte" path="device/samsung/klimtlte" remote="github" revision="cm-13.0" />
+  
   <project name="CyanogenMod/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="cm-13.0" />
-  <project name="CyanogenMod/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="cm-13.0" />
   <project name="CyanogenMod/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="cm-13.0" />
   <project name="CyanogenMod/android_external_stlport" path="external/stlport" remote="github" revision="cm-13.0" />
+  
+  <!-- TOOLCHAIN -->
+  <remote name="bb" fetch="https://bitbucket.org" />
+  
+  <project name="exynos5420/armv7-cortex_a15-linux-gnueabihf-linaro-5.2-2016.09.02" path="prebuilts/gcc/linux-x86/arm/arm-eabi-5.2" remote="github" revision="master" />
+  <project name="Christopher83/arm-cortex_a15-linux-gnueabihf-linaro_4.9" path="prebuilts/gcc/linux-x86/arm/arm-cortex_a15-linux-gnueabihf-linaro_4.9" remote="github" revision="master" />
+
+  <!-- UBER TC -->
+  <project name="UBERTC/arm-linux-androideabi-5.3" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-UB-5.3" remote="bb" revision="master" />
+  <project name="UBERTC/arm-eabi-5.3" path="prebuilts/gcc/linux-x86/arm/arm-linux-eabi-UB-5.3" remote="bb" revision="master" />
+
 </manifest>
