@@ -1,5 +1,5 @@
 <manifest>
-  <project name="exynos5420/android_device_samsung_v1awifi" path="device/samsung/v1awifi" remote="github" />
+  <project name="exynos5420/android_device_samsung_v1a3g" path="device/samsung/v1a3g" remote="github" />
   <project name="exynos5420/android_device_samsung_exynos5420-common" path="device/samsung/exynos5420-common" remote="github" />
   <project name="exynos5420/android_kernel_samsung_exynos5420" path="kernel/samsung/exynos5420" remote="github" />
   <project name="exynos5420/proprietary_vendor_samsung" path="vendor/samsung" remote="github" />
