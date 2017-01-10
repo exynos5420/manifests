@@ -6,14 +6,14 @@ There will be individual manifests for each device with there according rom.
 
 Naming Scheme examples for the manifests:
 ```
-N1awifi_BrokenOS_manifest.xml
-Klimtlte_CM_manifest.xml
-V1awifi_CM_manifest.xml
+n1awifi_BrokenOS_manifest.xml
+klimtlte_LineageOS_manifest.xml
+v1awifi_LineageOS_manifest.xml
 ```
 
 To use these manifests, place these manifests as shown below:
 
-"/cm-13.0/.repo/local_manifests/roomservice.xml"
+"/lineageos-13.0/.repo/local_manifests/roomservice.xml"
 
 and do a "repo sync"
 
