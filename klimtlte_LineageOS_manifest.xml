@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="exynos5420/android_device_samsung_klimtlte" path="device/samsung/klimtlte" remote="github" />
+  <project name="exynos5420/android_device_samsung_exynos5420-common" path="device/samsung/exynos5420-common" remote="github" />
   <project name="exynos5420/android_kernel_samsung_exynos5420" path="kernel/samsung/exynos5420" remote="github"/>
   <project name="exynos5420/proprietary_vendor_samsung" path="vendor/samsung" remote="github" />
   <project name="lineageos/android_hardware_samsung" path="hardware/samsung" remote="github" />
