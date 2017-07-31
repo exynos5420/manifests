@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<!-- Device fundamentals -->
-	<project name="exynos5420/android_device_samsung_n1awifi" path="device/samsung/n1awifi" remote="github" revision="cm-13.0"/>
-	<project name="exynos5420/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-13.0"/>
-	<project name="exynos5420/android_kernel_samsung_exynos5420" path="kernel/samsung/exynos5420" remote="github" revision="cm-13.0"/>
+  <project name="exynos5420/android_device_samsung_n1awifi" path="device/samsung/n1awifi" remote="exynos5420" />
 
-	<!-- Exynos -->
-	<project name="lineageos/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-13.0"/>
-	<project name="lineageos/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="cm-13.0"/>
-	<project name="lineageos/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="cm-13.0"/>
-	<project name="exynos5420/android_hardware_samsung_slsi-cm_exynos5420" path="hardware/samsung_slsi-cm/exynos5420" remote="github" revision="cm-13.0"/>
-	<project name="lineageos/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="cm-13.0"/>
+  <!-- LineageOS -->
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="lineageos" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="lineageos" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="lineageos" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="lineageos" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="lineageos" />
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="lineageos" />
+  <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="lineageos" />
 
-	<!-- External -->
-	<project name="lineageos/android_external_stlport" path="external/stlport" remote="github" revision="cm-13.0"/>
-	<project name="exynos5420/armv7-cortex_a15-linux-gnueabihf-linaro-5.2-2016.09.02" path="prebuilts/gcc/linux-x86/arm/arm-eabi-5.2" remote="github" revision="master" />
-	<project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github"/>
+  <!-- Team Exynos 5420 -->
+  <project name="exynos5420/android_device_samsung_exynos5420-common" path="device/samsung/exynos5420-common" remote="exynos5420" />
+  <project name="exynos5420/proprietary_vendor_samsung" path="vendor/samsung" remote="exynos5420" />
+  <project name="exynos5420/android_hardware_samsung_slsi-cm_exynos5420" path="hardware/samsung_slsi-cm/exynos5420" remote="exynos5420" />
+  <project name="exynos5420/android_kernel_samsung_exynos5420" path="kernel/samsung/exynos5420" remote="exynos5420" />
+
+
+  <project name="exynos5420/armv7-cortex_a15-linux-gnueabihf-linaro-5.2-2016.09.02" path="prebuilts/gcc/linux-x86/arm/arm-eabi-5.2" remote="exynos5420" revision="master" />>
 </manifest>

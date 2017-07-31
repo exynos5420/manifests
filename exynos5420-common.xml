@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="exynos5420"
+           fetch="https://github.com"
+           review="review.exynos5420.com"
+           revision="cm-14.1" />
+
+  <remote  name="lineageos"
+           fetch="https://github.com"
+           review="review.lineageos.org"
+           revision="cm-14.1" />
+
+</manifest>
