@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- DEVICES -->
+  <project name="exynos5420/android_device_samsung_v1awifi" path="device/samsung/v1awifi" remote="github" />
+  <project name="exynos5420/android_device_samsung_v2awifi" path="device/samsung/v2awifi" remote="github" />
+  <project name="exynos5420/android_device_samsung_v1a3g" path="device/samsung/v1a3g" remote="github" />
+  <project name="exynos5420/android_device_samsung_n1awifi" path="device/samsung/n1awifi" remote="github" />
+  <project name="exynos5420/android_device_samsung_n2awifi" path="device/samsung/n2awifi" remote="github" />
+  <project name="exynos5420/android_device_samsung_klimtlte" path="device/samsung/klimtlte" remote="github" />
+  <project name="exynos5420/android_device_samsung_klimttd" path="device/samsung/klimttd" remote="github" />
+  <project name="exynos5420/android_device_samsung_klimtwifi" path="device/samsung/klimtwifi" remote="github" />
+  <project name="exynos5420/android_device_samsung_chagalllte" path="device/samsung/chagalllte" remote="github" />
+  <project name="exynos5420/android_device_samsung_chagallltetmo" path="device/samsung/chagallltetmo" remote="github" />
+  <project name="exynos5420/android_device_samsung_chagallwifi" path="device/samsung/chagallwifi" remote="github" />
+  <project name="exynos5420/android_device_samsung_ha3g" path="device/samsung/ha3g" remote="github" />
+  <project name="exynos5420/android_device_samsung_exynos5420-common" path="device/samsung/exynos5420-common" remote="github" />
+
+  <project name="exynos5420/android_device_samsung_k3gxx" path="device/samsung/k3gxx" remote="github" />
+<!-- KERNEL -->
+  <project name="exynos5420/android_kernel_samsung_exynos5420" path="kernel/samsung/exynos5420" remote="github" />
+  <project name="exynos5420/android_kernel_samsung_k3gxx" path="kernel/samsung/k3gxx" remote="github" />
+
+<!-- VENDOR -->
+  <project name="exynos5420/proprietary_vendor_samsung" path="vendor/samsung" remote="github" />
+  <project name="exynos5420/proprietary_vendor_samsung_k3gxx" path="vendor/samsung/k3gxx" remote="github" />
+
+<!-- HARDWARE -->
+  <project name="exynos5420/android_hardware_samsung_slsi-cm_exynos5420" path="hardware/samsung_slsi-cm/exynos5420" remote="github" />
+  <project name="lineageos/android_external_stlport" path="external/stlport" remote="github" />
+  <project name="lineageos/android_hardware_samsung" path="hardware/samsung" remote="github" />
+  <project name="lineageos/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" />
+  <project name="lineageos/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" />
+  <project name="lineageos/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" />
+
+<!-- DOZE STRINGS -->
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github"/>
+
+<!-- OMS -->
+  <project name="LineageOMS/merge_script" path="OMS" remote="github" revision="master"/>
+
+</manifest>
