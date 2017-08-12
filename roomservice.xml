@@ -26,6 +26,7 @@
 
 <!-- HARDWARE -->
   <project name="exynos5420/android_hardware_samsung_slsi-cm_exynos5420" path="hardware/samsung_slsi-cm/exynos5420" remote="github" />
+  <project name="exynos5420/android_hardware_samsung_slsi-cm_exynos5422" path="hardware/samsung/exynos5422_slsi-cm" remote="github" />
   <project name="lineageos/android_external_stlport" path="external/stlport" remote="github" />
   <project name="lineageos/android_hardware_samsung" path="hardware/samsung" remote="github" />
   <project name="lineageos/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" />
