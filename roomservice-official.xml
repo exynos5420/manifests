@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- DEVICES -->
+  <project name="LineageOS/android_device_samsung_chagalllte" path="device/samsung/chagalllte" remote="github" />
+  <project name="LineageOS/android_device_samsung_chagallwifi" path="device/samsung/chagallwifi" remote="github" />
+  <project name="LineageOS/android_device_samsung_ha3g" path="device/samsung/ha3g" remote="github" />
+  <project name="LineageOS/android_device_samsung_klimtlte" path="device/samsung/klimtlte" remote="github" />
+  <project name="LineageOS/android_device_samsung_klimtwifi" path="device/samsung/klimtwifi" remote="github" />
+  <project name="LineageOS/android_device_samsung_n1awifi" path="device/samsung/n1awifi" remote="github" />
+  <project name="LineageOS/android_device_samsung_n2awifi" path="device/samsung/n2awifi" remote="github" />
+  <project name="LineageOS/android_device_samsung_v1awifi" path="device/samsung/v1awifi" remote="github" />
+
+  <project name="LineageOS/android_device_samsung_exynos5420-common" path="device/samsung/exynos5420-common" remote="github" />
+
+<!-- KERNEL -->
+  <project name="LineageOS/android_kernel_samsung_exynos5420" path="kernel/samsung/exynos5420" remote="github" />
+
+<!-- HARDWARE -->
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5420" path="hardware/samsung_slsi-cm/exynos5420" remote="github" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" />
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" />
+
+<!-- DOZE STRINGS -->
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github"/>
+
+<!-- VENDOR -->
+  <project depth="1" name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" />
+</manifest>
