@@ -1,6 +1,10 @@
-# Exynos 5420 Device manifests
+# Exynos 5420 Device Manifests
 
 ![Exynos Chip](http://www.androidcentral.com/sites/androidcentral.com/files/postimages/9274/exynos-5-octa.jpg)
+
+##Version/Codenames
+Android 6.0 Marshmallow
+CyanogenMod/Lineage 13.0
 
 There will be individual manifests for each device with there according rom.
 
