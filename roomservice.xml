@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<!-- DEVICES -->
-  <project name="exynos5420/android_device_samsung_v1awifi" path="device/samsung/v1awifi" remote="github" />
-  <project name="exynos5420/android_device_samsung_v2awifi" path="device/samsung/v2awifi" remote="github" />
-  <project name="exynos5420/android_device_samsung_n1awifi" path="device/samsung/n1awifi" remote="github" />
-  <project name="exynos5420/android_device_samsung_n2awifi" path="device/samsung/n2awifi" remote="github" />
-  <project name="exynos5420/android_device_samsung_klimtlte" path="device/samsung/klimtlte" remote="github" />
-  <project name="exynos5420/android_device_samsung_klimtwifi" path="device/samsung/klimtwifi" remote="github" />
-  <project name="exynos5420/android_device_samsung_chagalllte" path="device/samsung/chagalllte" remote="github" />
-  <project name="exynos5420/android_device_samsung_chagallltetmo" path="device/samsung/chagallltetmo" remote="github" />
+<!-- DEVICES -->  
   <project name="exynos5420/android_device_samsung_chagallwifi" path="device/samsung/chagallwifi" remote="github" />
-  <project name="exynos5420/android_device_samsung_ha3g" path="device/samsung/ha3g" remote="github" />
-  <project name="exynos5420/android_device_samsung_exynos5420-common" path="device/samsung/exynos5420-common" remote="github" />
+  <project name="exynos5420/android_device_samsung_chagalllte" path="device/samsung/chagalllte" remote="github" />
+  <project name="exynos5420/android_device_samsung_chagall-common" path="device/samsung/chagall-common" remote="github" />
+  <project name="exynos5420/android_device_samsung_klimtlte" path="device/samsung/klimtlte" remote="github" />
+  <project name="exynos5420/android_device_samsung_klimtltecan" path="device/samsung/klimtltecan" remote="github" />
+  <project name="exynos5420/android_device_samsung_klimtwifi" path="device/samsung/klimtwifi" remote="github" />
+  <project name="exynos5420/android_device_samsung_klimt-common" path="device/samsung/klimt-common" remote="github" />
+  <project name="exynos5420/android_device_samsung_universal5420-common" path="device/samsung/universal5420-common" remote="github" />
 
 <!-- KERNEL -->
   <project name="exynos5420/android_kernel_samsung_exynos5420" path="kernel/samsung/exynos5420" remote="github" />
 
 <!-- VENDOR -->
-  <project name="exynos5420/proprietary_vendor_samsung" path="vendor/samsung" remote="github" />
+  <project name="exynos5420/android_vendor_samsung_chagallwifi" path="vendor/samsung/chagallwifi" remote="github" />
+  <project name="exynos5420/android_vendor_samsung_chagalllte" path="vendor/samsung/chagalllte" remote="github" />
+  <project name="exynos5420/android_vendor_samsung_chagall-common" path="vendor/samsung/chagall-common" remote="github" />
+  <project name="exynos5420/android_vendor_samsung_klimtlte" path="vendor/samsung/klimtlte" remote="github" />
+  <project name="exynos5420/android_vendor_samsung_klimtltecan" path="vendor/samsung/klimtltecan" remote="github" />
+  <project name="exynos5420/android_vendor_samsung_klimtwifi" path="vendor/samsung/klimtwifi" remote="github" />
+  <project name="exynos5420/android_vendor_samsung_klimt-common" path="vendor/samsung/klimt-common" remote="github" />
+  <project name="exynos5420/android_vendor_samsung_universal5420-common" path="vendor/samsung/universal5420-common" remote="github" />
 
 <!-- HARDWARE -->
   <project name="lineageos/android_hardware_samsung" path="hardware/samsung" remote="github" />
