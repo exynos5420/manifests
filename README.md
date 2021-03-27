@@ -3,21 +3,11 @@
 ![Exynos Chip](http://www.androidcentral.com/sites/androidcentral.com/files/postimages/9274/exynos-5-octa.jpg)
 
 ##Version/Codenames
-Android 9.0 Nougat
-Lineage 16.0
+Android 10 Q
+Lineage 17.1
 
-There will be individual manifests for each device with there according rom.
 
-Naming Scheme examples for the manifests:
-
-```
-n1awifi_BrokenOS_manifest.xml
-klimtlte_LineageOS_manifest.xml
-v1awifi_LineageOS_manifest.xml
-
-```
-
-To use these manifests, place the manifests you want to the folder "lineageos/.repo/local_manifests/"
+To use this manifests, place the manifest to the folder ".repo/local_manifests/"
 
 after that do a "repo sync"
 
