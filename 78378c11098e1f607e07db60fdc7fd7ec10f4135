@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "644f7aaa_1a5418b5",
+        "filename": "roomservice.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1000137
+      },
+      "writtenOn": "2021-03-27T20:49:26Z",
+      "side": 1,
+      "message": "this is in lineage manifest already",
+      "revId": "78378c11098e1f607e07db60fdc7fd7ec10f4135",
+      "serverId": "c6d92919-bfe7-411c-9f64-004a8163e0f0",
+      "unresolved": true
+    }
+  ]
+}
