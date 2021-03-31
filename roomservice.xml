@@ -8,6 +8,14 @@
   <project name="exynos5420/android_device_samsung_klimtltecan" path="device/samsung/klimtltecan" remote="github" />
   <project name="exynos5420/android_device_samsung_klimtwifi" path="device/samsung/klimtwifi" remote="github" />
   <project name="exynos5420/android_device_samsung_klimt-common" path="device/samsung/klimt-common" remote="github" />
+  <project name="exynos5420/android_device_samsung_n1a-common" path="device/samsung/n1a-common" remote="github" />
+  <project name="exynos5420/android_device_samsung_n1awifi" path="device/samsung/n1awifi" remote="github" />
+  <project name="exynos5420/android_device_samsung_n2a-common" path="device/samsung/n2a-common" remote="github" />
+  <project name="exynos5420/android_device_samsung_n2awifi" path="device/samsung/n2awifi" remote="github" />
+  <project name="exynos5420/android_device_samsung_v1a-common" path="device/samsung/v1a-common" remote="github" />
+  <project name="exynos5420/android_device_samsung_v1awifi" path="device/samsung/v1awifi" remote="github" />
+  <project name="exynos5420/android_device_samsung_v2a-common" path="device/samsung/v2a-common" remote="github" />
+  <project name="exynos5420/android_device_samsung_v2awifi" path="device/samsung/v2awifi" remote="github" />
   <project name="exynos5420/android_device_samsung_universal5420-common" path="device/samsung/universal5420-common" remote="github" />
   <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" />
 
@@ -22,6 +30,14 @@
   <project name="exynos5420/android_vendor_samsung_klimtltecan" path="vendor/samsung/klimtltecan" remote="github" />
   <project name="exynos5420/android_vendor_samsung_klimtwifi" path="vendor/samsung/klimtwifi" remote="github" />
   <project name="exynos5420/android_vendor_samsung_klimt-common" path="vendor/samsung/klimt-common" remote="github" />
+  <project name="exynos5420/android_vendor_samsung_n1a-common" path="vendor/samsung/n1a-common" remote="github"/>
+  <project name="exynos5420/android_vendor_samsung_n1awifi" path="vendor/samsung/n1awifi" remote="github"/>
+  <project name="exynos5420/android_vendor_samsung_n2a-common" path="vendor/samsung/n2a-common" remote="github"/>
+  <project name="exynos5420/android_vendor_samsung_n2awifi" path="vendor/samsung/n2awifi" remote="github"/>
+  <project name="exynos5420/android_vendor_samsung_v1a-common" path="vendor/samsung/v1a-common" remote="github"/>
+  <project name="exynos5420/android_vendor_samsung_v1awifi" path="vendor/samsung/v1awifi" remote="github"/>
+  <project name="exynos5420/android_vendor_samsung_v2a-common" path="vendor/samsung/v2a-common" remote="github"/>
+  <project name="exynos5420/android_vendor_samsung_v2awifi" path="vendor/samsung/v2awifi" remote="github"/>
   <project name="exynos5420/android_vendor_samsung_universal5420-common" path="vendor/samsung/universal5420-common" remote="github" />
 
   <!-- HARDWARE -->
